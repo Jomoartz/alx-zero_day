@@ -1,1 +1,3 @@
-My first readme. Tips
+[master (root-commit) dab7f92] My first readme. Tips
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
